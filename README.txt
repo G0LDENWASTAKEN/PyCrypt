@@ -1,8 +1,4 @@
-PYTHON CONVERTER! MADE BY G0LDEN!
-
-
-Subscribe to my Youtube channel: https://bit.ly/3G1xac0
-
+Simple Encryption in Python. Made by Cooper (G0LDEN)
 
 
 
